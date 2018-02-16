@@ -12,6 +12,7 @@
 
 h1 {
 	font-family: 'Mukta Mahee', sans-serif;
+	font-style: italic;
 	padding-left: 15px;
 	padding-right: 15px;
 	background-color: black;
@@ -62,8 +63,11 @@ li:before {
 	padding-bottom: 0px;
 }
 
-
-
 a {
 	text-decoration: wavy underline;
+	color: blue;
+}
+
+a:visied {
+	color: blue;
 }
