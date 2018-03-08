@@ -8,6 +8,28 @@
     body {
     	font-size: .875em;
     }
+    .footer {
+    	height: 45px;
+    }
+}
+
+#resume-container {
+	width: 720px;
+}
+
+.footer {
+	position: fixed;
+	width: 100%;
+  left: 0;
+  bottom: 0;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+.icons {
+	height: 30px;
+	width: 30px;
 }
 
 h1 {
